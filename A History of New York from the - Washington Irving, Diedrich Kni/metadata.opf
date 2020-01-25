@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>A History of New York from the Beginning of the World to the End of the Dutch Dynasty</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Washington Irving, Diedrich Knickerbocker">Washington Irving, Diedrich Knickerbocker</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">601b1a70-141d-4742-9cd8-6a8812804db5</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">25738edc-9ad9-4896-b833-92c4ec5cf545</dc:identifier>
+    <meta content="{&quot;Washington Irving, Diedrich Knickerbocker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="History of New York from the Beginning of the World to the End of the Dutch Dynasty, A"/>
+  </metadata>
+  <manifest>
+    <item href="001-title-page.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="003-dedication.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="004-account-of-the-author.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="005-to-the-public.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="006-book1-chapter1.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="007-book1-chapter5.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="008-book2-chapter1.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide/>
+</package>

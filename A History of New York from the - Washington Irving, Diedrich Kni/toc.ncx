@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="601b1a70-141d-4742-9cd8-6a8812804db5" name="dtb:uid"/>
+    <meta content="5" name="dtb:depth"/>
+    <meta content="calibre (4.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>A History of New York from the Beginning of the World to the End of the Dutch Dynasty</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="001-title-page.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>To the New York Historical Society</text>
+      </navLabel>
+      <content src="003-dedication.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Account of the Author</text>
+      </navLabel>
+      <content src="004-account-of-the-author.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>To the Public</text>
+      </navLabel>
+      <content src="005-to-the-public.xhtml"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Notes</text>
+        </navLabel>
+        <content src="005-to-the-public.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>The History of New York, &amp;c.</text>
+      </navLabel>
+      <content src="006-book1-chapter1.xhtml"/>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Book I.</text>
+        </navLabel>
+        <content src="006-book1-chapter1.xhtml#toc_1"/>
+        <navPoint id="num_8" playOrder="8">
+          <navLabel>
+            <text>Chap. I.</text>
+          </navLabel>
+          <content src="006-book1-chapter1.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="9">
+          <navLabel>
+            <text>Chap. V.</text>
+          </navLabel>
+          <content src="007-book1-chapter5.xhtml"/>
+          <navPoint id="num_10" playOrder="10">
+            <navLabel>
+              <text>Notes</text>
+            </navLabel>
+            <content src="007-book1-chapter5.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Book II.</text>
+        </navLabel>
+        <content src="008-book2-chapter1.xhtml"/>
+        <navPoint id="num_12" playOrder="12">
+          <navLabel>
+            <text>Chap. I.</text>
+          </navLabel>
+          <content src="008-book2-chapter1.xhtml#toc_1"/>
+          <navPoint id="num_13" playOrder="13">
+            <navLabel>
+              <text>Notes</text>
+            </navLabel>
+            <content src="008-book2-chapter1.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
